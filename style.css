@@ -42,3 +42,12 @@
 .pointer {
   cursor: pointer;
 }
+
+.gradient {
+  background: -webkit-linear-gradient(top, rgb(255, 243, 184) 0%, rgb(255, 233, 124) 15%, rgb(255, 205, 58) 56%, rgb(245, 184, 24) 97%, rgb(238, 179, 23) 100%);
+  background: -o-linear-gradient(top, rgb(255, 243, 184) 0%, rgb(255, 233, 124) 15%, rgb(255, 205, 58) 56%, rgb(245, 184, 24) 97%, rgb(238, 179, 23) 100%);
+  background: -ms-linear-gradient(top, rgb(255, 243, 184) 0%, rgb(255, 233, 124) 15%, rgb(255, 205, 58) 56%, rgb(245, 184, 24) 97%, rgb(238, 179, 23) 100%);
+  background: -moz-linear-gradient(top, rgb(255, 243, 184) 0%, rgb(255, 233, 124) 15%, rgb(255, 205, 58) 56%, rgb(245, 184, 24) 97%, rgb(238, 179, 23) 100%);
+  background: linear-gradient(to bottom, rgb(255, 243, 184) 0%, rgb(255, 233, 124) 15%, rgb(255, 205, 58) 56%, rgb(245, 184, 24) 97%, rgb(238, 179, 23) 100%);
+  background-color: #fff;
+}
