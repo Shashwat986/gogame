@@ -1,3 +1,4 @@
+/* ICOMOON */
 @font-face {
   font-family: 'icomoon';
   src:  url('fonts/icomoon.eot?ynebxp');
@@ -36,3 +37,4 @@
 .icon-address-book:before {
   content: "\e944";
 }
+/* END ICOMOON */
